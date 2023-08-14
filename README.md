@@ -22,6 +22,9 @@ Para la elaboración del dashboard se realizó un proceso de ETL, que, entre otr
 
 # Home
 Carátula del proyecto donde se encuentra una breve descripción del objetivo y varios botones que nos llevan a visualizar el análisis que deseamos.
+
+<img https://drive.google.com/file/d/1mSXMN9k45KHLiDGRmHaCMBKA7BahiWFg/view?usp=sharing>
+
 !(https://drive.google.com/file/d/1mSXMN9k45KHLiDGRmHaCMBKA7BahiWFg/view?usp=sharing)
 
 # Readmi
