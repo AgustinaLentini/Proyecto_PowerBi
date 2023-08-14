@@ -1,5 +1,5 @@
 ## Proyecto_PowerBi
-#🏠 Análisis de Datos Airbnb con Power BI 📊
+🏠 Análisis de Datos Airbnb con Power BI 📊
 
 # Descropcion del proyecto: 
 En **“Accommodation Analysis in New York City, USA - Airbnb”** se analiza un conjunto de datos de casi 3000 filas y 13 columnas para obtener información relevante sobre las propiedades y los precios, identificar patrones y tendencias en el mercado de alquileres vacacionales y proporcionar recomendaciones para optimizar las estrategias de alquiler, usando varias técnicas de visualización de datos, como mapas de calor, gráficos de barras, gráficos de conteo y KPIs. Ademas, Se identifico las ubicaciones de alquiler mas populares, se comparo grupos de vecindarios y disponibilidad en diferentes vecindarios de acuerdo a los tipos de habitacion y el analicis de vecindarios de uso frecuente en listados de Airbnb.
