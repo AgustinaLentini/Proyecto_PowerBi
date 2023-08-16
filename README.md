@@ -15,7 +15,7 @@ Para la elaboración del dashboard se realizó un proceso de ETL, que, entre otr
 - SQL para la consulta de la base de datos y creacion de tablas.
 - Excel y Power Query para la lectura y limpieza del datasets.
 - Power Point para la creación del diseño del mockup.
-- Miro para la creación del diagrama entidad-relación (https://app.diagrams.net/).
+- Diagrams para la creación del diagrama entidad-relación (https://app.diagrams.net/).
 - Power BI Desktop para la creación del tablero de control.
 
 # Tableros del proyecto: 
