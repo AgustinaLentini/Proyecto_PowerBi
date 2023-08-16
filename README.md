@@ -23,6 +23,7 @@ Para la elaboración del dashboard se realizó un proceso de ETL, que, entre otr
 # Home
 Carátula del proyecto donde se encuentra una breve descripción del objetivo y varios botones que nos llevan a visualizar el análisis que deseamos.
 
+
 <img width="589" alt="Captura de pantalla 2023-08-14 a la(s) 15 36 16" src="https://github.com/AgustinaLentini/Proyecto_PowerBi/assets/132457053/e9794645-6687-4bd3-95c5-a80844a1ffce">
 
 # Readmi
@@ -32,6 +33,7 @@ En esta solapa encontramos información relevante para introducir al usuario al 
 
 # Overview
 Se pueden visualizar distintos parámetros generales como TOP 5 y TOP 10 de las propiedades, según los distritos. Asimismo, podemos segmentar los datos de acuerdo a los años, nombre del host, nombre de la propiedad y barrio.
+
 
 <img width="593" alt="Captura de pantalla 2023-08-14 a la(s) 15 41 03" src="https://github.com/AgustinaLentini/Proyecto_PowerBi/assets/132457053/77f60439-44db-4f6b-be12-526b8e8007e9">
 
